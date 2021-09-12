@@ -11,3 +11,4 @@ Weekends: Web Devlopment
 #### 4th - Variations of Binary Search and Longest Common Subsequence
 #### 5th - Variation of LCS - printing shortest common supersequence
 #### 6th - Variation of LCS - Edit Distance (convert str1 to str2 by 3 operations-insert,delete,replace)
+#### 7th - Variation of LCS - Distinct Subsequences (find all different subsequences of word2 in word1)
