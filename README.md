@@ -13,3 +13,4 @@ Weekends: Web Devlopment
 #### 6th - Variation of LCS - Edit Distance (convert str1 to str2 by 3 operations-insert,delete,replace)
 #### 7th - Variation of LCS - Distinct Subsequences (find all different subsequences of word2 in word1)
 #### 8th - Variation of LCS - Minimum ASCII Delete Sum for Two Strings
+#### 9th - Variation of MCM - Minimum Score Triangulation of Polygon
