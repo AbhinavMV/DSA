@@ -15,3 +15,5 @@ Weekends: Web Devlopment
 #### 8th - Variation of LCS - Minimum ASCII Delete Sum for Two Strings
 #### 9th - Variation of MCM - Minimum Score Triangulation of Polygon
 #### 10th - Count Palindromic Substrings
+#### 11th - Variation of MCM - Minimum Palindromic Substrings
+#### 12th - Variation of MCM - Burst Balloons
