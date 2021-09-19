@@ -17,3 +17,5 @@ Weekends: Web Devlopment
 #### 10th - Count Palindromic Substrings
 #### 11th - Variation of MCM - Minimum Palindromic Substrings
 #### 12th - Variation of MCM - Burst Balloons
+#### 13th - Variation of MCM - Minimum Cost of Tree from Leaf Nodes
+#### 14th - Bottom Up Approach of MCM Variations - Minimum Score Triangulation of Polygon
