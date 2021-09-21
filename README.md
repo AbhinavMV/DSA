@@ -20,3 +20,4 @@ Weekends: Web Devlopment
 #### 13th - Variation of MCM - Minimum Cost of Tree from Leaf Nodes
 #### 14th - Bottom Up Approach of MCM Variations - Minimum Score Triangulation of Polygon
 #### 15th - Bottom Up Approach of MCM Variations - Burst Balloons (Learned very important thing)
+#### 16th - Bottom Up Approach of MCM Variations - Minimum Cost Tree From Leaf Values
