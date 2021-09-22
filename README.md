@@ -21,3 +21,4 @@ Weekends: Web Devlopment
 #### 14th - Bottom Up Approach of MCM Variations - Minimum Score Triangulation of Polygon
 #### 15th - Bottom Up Approach of MCM Variations - Burst Balloons (Learned very important thing)
 #### 16th - Bottom Up Approach of MCM Variations - Minimum Cost Tree From Leaf Values
+#### 17th - Buy and sell stock variations
