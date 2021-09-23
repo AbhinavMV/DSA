@@ -22,3 +22,4 @@ Weekends: Web Devlopment
 #### 15th - Bottom Up Approach of MCM Variations - Burst Balloons (Learned very important thing)
 #### 16th - Bottom Up Approach of MCM Variations - Minimum Cost Tree From Leaf Values
 #### 17th - Buy and sell stock variations
+#### 18th - Buy and sell stock variations
