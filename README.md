@@ -21,5 +21,7 @@ Weekends: Web Devlopment
 #### 14th - Bottom Up Approach of MCM Variations - Minimum Score Triangulation of Polygon
 #### 15th - Bottom Up Approach of MCM Variations - Burst Balloons (Learned very important thing)
 #### 16th - Bottom Up Approach of MCM Variations - Minimum Cost Tree From Leaf Values
-#### 17th - Buy and sell stock variations
-#### 18th - Buy and sell stock variations
+#### 17th - Buy and sell stock variations - (Once Only and Infinite times)
+#### 18th - Buy and sell stock variations - (with Transaciton Fee)
+#### 19th - Buy and sell stock variations - (with cooldown)	
+#### 20th - Buy and sell stock variations - (2 Transactions and K Transactions)
