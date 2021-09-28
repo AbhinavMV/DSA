@@ -27,3 +27,4 @@ Weekends: Web Devlopment
 #### 20th - Buy and sell stock variations - (2 Transactions and K Transactions)
 #### 21st - Variations of LIS - Longest Increasing Subsequence - LIS,largest Divisible subset,russian Dolls
 #### 22nd - Variations of LIS - maximum length of pair chain
+#### 23rd - Variations of LIS - Number of Longest increasing Subsequence
