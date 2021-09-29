@@ -28,3 +28,4 @@ Weekends: Web Devlopment
 #### 21st - Variations of LIS - Longest Increasing Subsequence - LIS,largest Divisible subset,russian Dolls
 #### 22nd - Variations of LIS - maximum length of pair chain
 #### 23rd - Variations of LIS - Number of Longest increasing Subsequence
+#### 24th - Variations of LIS and Knapsack - House robber 2 and delete and earn
