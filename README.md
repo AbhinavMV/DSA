@@ -29,4 +29,5 @@ Weekends: Web Devlopment
 #### 22nd - Variations of LIS - maximum length of pair chain
 #### 23rd - Variations of LIS - Number of Longest increasing Subsequence
 #### 24th - Variations of LIS and Knapsack - House robber 2 and delete and earn
-#### 25th - Varitaions of LIS - Longest String Chain
+#### 25th - Variations of LIS - Longest String Chain
+#### 26th - Variations of Knapsack and Hash+dp - Target Sum
