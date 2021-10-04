@@ -61,3 +61,5 @@ Weekends: Web Devlopment
 ##### 27th - Misc - Greatest Sum Divisible by Three
 
 ##### 28th - DP (Max - Min) - Minimum Path Sum, Triangle
+
+##### 29th - DP (Max - Min) - Dungeon Game (Important concept)
