@@ -63,3 +63,5 @@ Weekends: Web Devlopment
 ##### 28th - DP (Max - Min) - Minimum Path Sum, Triangle
 
 ##### 29th - DP (Max - Min) - Dungeon Game (Important concept)
+
+##### 30th - DP (Max - Min) - Maximal Square 
