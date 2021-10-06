@@ -65,3 +65,5 @@ Weekends: Web Devlopment
 ##### 29th - DP (Max - Min) - Dungeon Game (Important concept)
 
 ##### 30th - DP (Max - Min) - Maximal Square 
+
+##### 31st - DP (Max - Min) - Perfect Square
