@@ -67,3 +67,5 @@ Weekends: Web Devlopment
 ##### 30th - DP (Max - Min) - Maximal Square 
 
 ##### 31st - DP (Max - Min) - Perfect Square
+
+##### 32nd - DP (Max - Min) - 2 Keys Keyboard
