@@ -69,3 +69,5 @@ Weekends: Web Devlopment
 ##### 31st - DP (Max - Min) - Perfect Square
 
 ##### 32nd - DP (Max - Min) - 2 Keys Keyboard
+
+##### 33rd - DP (Max - Min) - Minimum Cost of Climbing stairs,Minimum Number of Refueling stops
