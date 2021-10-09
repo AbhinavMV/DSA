@@ -71,3 +71,6 @@ Weekends: Web Devlopment
 ##### 32nd - DP (Max - Min) - 2 Keys Keyboard
 
 ##### 33rd - DP (Max - Min) - Minimum Cost of Climbing stairs,Minimum Number of Refueling stops
+
+##### 34th - DP (Max - Min) - Minimum Falling Path Sum, Minimum Cost for Tickets
+
