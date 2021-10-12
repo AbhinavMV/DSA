@@ -77,3 +77,5 @@ Weekends: Web Devlopment
 ##### 35th - DP (Unique Paths) - Unique Paths, Unique Paths 2
 
 ##### 36th - DP (Unique Paths) - Combination Sum IV
+
+##### 37th - DP (Unqiue Paths) - Out of Boundary Paths (Recusrive and memomized solution only)
