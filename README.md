@@ -78,4 +78,6 @@ Weekends: Web Devlopment
 
 ##### 36th - DP (Unique Paths) - Combination Sum IV
 
-##### 37th - DP (Unqiue Paths) - Out of Boundary Paths (Recusrive and memomized solution only)
+##### 37th - DP (Unqiue Paths) - Out of Boundary Paths (Recursive and memomized solution only)
+
+##### 38th - DP (Unique Paths) - Knight Probability in Chess (Backtracking)
