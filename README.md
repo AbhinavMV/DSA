@@ -83,3 +83,5 @@ Weekends: Web Devlopment
 ##### 38th - DP (Unique Paths) - Knight Probability in Chess (Backtracking)
 
 ##### 39th - DP (Unique Paths) - Domino and Tromino Tiling
+
+##### 40th - DP (Unique Paths) - Minimum Swaps To Make Sequences Increasing
