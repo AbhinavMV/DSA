@@ -85,3 +85,5 @@ Weekends: Web Devlopment
 ##### 39th - DP (Unique Paths) - Domino and Tromino Tiling
 
 ##### 40th - DP (Unique Paths) - Minimum Swaps To Make Sequences Increasing
+
+##### 41st - All Easy and some medium questions of Searching on Leetcode (Listed in Searching.md)
