@@ -87,3 +87,5 @@ Weekends: Web Devlopment
 ##### 40th - DP (Unique Paths) - Minimum Swaps To Make Sequences Increasing
 
 ##### 41st - All Easy and some medium questions of Searching on Leetcode (Listed in Searching.md)
+
+##### 42nd - Some medium question of Searching(Binary Search) on Leetcode
