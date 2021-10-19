@@ -91,3 +91,5 @@ Weekends: Web Devlopment
 ##### 42nd - Some medium question of Searching(Binary Search) on Leetcode
 
 ##### 43rd - 2 Medium Questions of Searching(Binary Search) on Leetcode
+
+##### 44th - 2 Medium Questions of Searching(Binary Search) on Leetcode
