@@ -93,3 +93,5 @@ Weekends: Web Devlopment
 ##### 43rd - 2 Medium Questions of Searching(Binary Search) on Leetcode
 
 ##### 44th - 2 Medium Questions of Searching(Binary Search) on Leetcode
+
+##### 45th - Binary Search - Search in 2D Matrix
