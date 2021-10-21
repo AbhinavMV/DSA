@@ -95,3 +95,5 @@ Weekends: Web Devlopment
 ##### 44th - 2 Medium Questions of Searching(Binary Search) on Leetcode
 
 ##### 45th - Binary Search - Search in 2D Matrix
+
+##### 46th - Binary Search - Find Peak in Grid, Find a duplicate number
