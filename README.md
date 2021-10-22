@@ -97,3 +97,5 @@ Weekends: Web Devlopment
 ##### 45th - Binary Search - Search in 2D Matrix
 
 ##### 46th - Binary Search - Find Peak in Grid, Find a duplicate number
+
+##### 47th - Binary Search - Capacity to Ship Packages in D days
