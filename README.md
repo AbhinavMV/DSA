@@ -101,3 +101,6 @@ Weekends: Web Devlopment
 ##### 47th - Binary Search - Capacity to Ship Packages in D days
 
 ##### 48th - Sorting - Started With Easy questions in sorting.md
+
+##### 49th - Learned different types of sorting - Bubble,Selection,Insertion,Merge,Quick
+
