@@ -105,3 +105,5 @@ Weekends: Web Devlopment
 ##### 49th - Learned different types of sorting - Bubble,Selection,Insertion,Merge,Quick
 
 ##### 50th - Sorting Questions in sorting.md
+
+##### 51st - Minimum Absolute Difference,Sort integers by the number of 1 bits,find disappeared Number(Cycle sort)
