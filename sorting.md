@@ -38,7 +38,7 @@
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [2Sum](https://leetcode.com/problems/two-sum/)
 
-## Medium
+## Medium - https://leetcode.com/problems/two-sum/discuss/737092/Sum-MegaPost-Python3-Solution-with-a-detailed-explanation (Good study link)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
