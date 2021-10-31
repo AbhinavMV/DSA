@@ -114,4 +114,6 @@ Weekends: Web Devlopment
 
 ##### 54th - 3Sum-Closest,Backtracking - Theory learned
 
-##### 55th - 4Sum (Done using NSum recursive method)
+##### 55th - 4Sum (Done using NSum recursive method),Combination Sum
+
+##### 56th - Word Search (backtracking),Kth Bit in Nth Binary String
