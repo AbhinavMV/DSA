@@ -1,4 +1,4 @@
-# DynamicProgramming
+# Data Structure And Algorithm
 
 Starting 100 Days of Code  
 Weekdays: Work on DP and Data Structures on Hackerrank  
@@ -111,3 +111,7 @@ Weekends: Web Devlopment
 ##### 52nd - 2Sum
 
 ##### 53rd - 3Sum,Combinations using recursion - Letter Combinations of a Phone Number,Number of Dice Rolls With Target Sum
+
+##### 54th - 3Sum-Closest,Backtracking - Theory learned
+
+##### 55th - 4Sum (Done using NSum recursive method)
