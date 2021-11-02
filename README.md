@@ -116,4 +116,6 @@ Weekends: Web Devlopment
 
 ##### 55th - 4Sum (Done using NSum recursive method),Combination Sum
 
-##### 56th - Word Search (backtracking),Kth Bit in Nth Binary String
+##### 56th - Word Search (backtracking),Kth Bit in Nth Binary String,Kth Symbol in Grammar
+
+##### 57th - Count Good Number (Good Ques - Mathematics+divide and conquer)
