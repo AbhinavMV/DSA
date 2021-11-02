@@ -119,3 +119,5 @@ Weekends: Web Devlopment
 ##### 56th - Word Search (backtracking),Kth Bit in Nth Binary String,Kth Symbol in Grammar
 
 ##### 57th - Count Good Number (Good Ques - Mathematics+divide and conquer)
+
+##### 58th - Decode String (trick to imitate pointer functionality in c)
