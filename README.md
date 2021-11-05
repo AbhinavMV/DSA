@@ -123,3 +123,5 @@ Weekends: Web Devlopment
 ##### 58th - Decode String (trick to imitate pointer functionality in c)
 
 ##### 59th - Count winner in circular game - Josepheus problem - Recursive approach
+
+##### 60th - Different ways to compute
