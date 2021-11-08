@@ -131,3 +131,5 @@ Weekends: Web Devlopment
 ##### 62nd - Combination Sum 2 and 3
 
 ##### 63rd - Sudoku Solver
+
+##### 64th - Permutations1 and 2, subsets 1 and 2, Letter tile Possibilities
