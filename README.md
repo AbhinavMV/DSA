@@ -133,3 +133,5 @@ Weekends: Web Devlopment
 ##### 63rd - Sudoku Solver
 
 ##### 64th - Permutations1 and 2, subsets 1 and 2, Letter tile Possibilities
+
+##### 65th - All Paths From Source to Target - find all paths and when current element becomes n-1 end it, Beautiful arrangement - Going from backward helps as it prunes more cases
