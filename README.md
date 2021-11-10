@@ -135,3 +135,5 @@ Weekends: Web Devlopment
 ##### 64th - Permutations1 and 2, subsets 1 and 2, Letter tile Possibilities
 
 ##### 65th - All Paths From Source to Target - find all paths and when current element becomes n-1 end it, Beautiful arrangement - Going from backward helps as it prunes more cases
+
+##### 66th - Path with Maximum Gold - Backtrack along all starting points, Tug of War - Use Target sum effectively(Geeks for Geeks question)
