@@ -139,3 +139,5 @@ Weekends: Web Devlopment
 ##### 66th - Path with Maximum Gold - Backtrack along all starting points, Tug of War - Use Target sum effectively(Geeks for Geeks question)
 
 ##### 67th - Parsing a boolean Expression - Try using level for each '(' ')' and parse for each expression between them. base condition return whenever you find t or f
+
+##### 68th - Special Binary Strings - equal to valid parenthesis, sort valid paranthesis in reverse order and join.
