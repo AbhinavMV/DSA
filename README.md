@@ -146,4 +146,6 @@ Weekends: Web Devlopment
 
 ##### 70th - Basic Calculator - Make stack solution then for brackets do recursion of this function
 
-##### 71st - Basic Calculator 2 - Same as but handle * and / but popping last element from stack, Integer to Number - Find pattern in each three digits of number also remember to handle edge cases 
+##### 71st - Basic Calculator 2 - Same as but handle * and / but popping last element from stack, Integer to Number - Find pattern in each three digits of number also remember to handle edge cases
+
+##### 72nd - revised the concepts of OOPS - inheritance
