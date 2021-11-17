@@ -149,3 +149,5 @@ Weekends: Web Devlopment
 ##### 71st - Basic Calculator 2 - Same as but handle * and / but popping last element from stack, Integer to Number - Find pattern in each three digits of number also remember to handle edge cases
 
 ##### 72nd - revised the concepts of OOPS - inheritance
+
+##### 73rd - Completed OOPS revision - Polymorphism , Getter and Setter, Static and Class methods
