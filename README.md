@@ -151,3 +151,5 @@ Weekends: Web Devlopment
 ##### 72nd - revised the concepts of OOPS - inheritance
 
 ##### 73rd - Completed OOPS revision - Polymorphism , Getter and Setter, Static and Class methods
+
+##### 74th - Revised Linked List
