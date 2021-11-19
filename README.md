@@ -152,4 +152,4 @@ Weekends: Web Devlopment
 
 ##### 73rd - Completed OOPS revision - Polymorphism , Getter and Setter, Static and Class methods
 
-##### 74th - Revised Linked List
+##### 74th - Linked List - Insert,delete and display operations
