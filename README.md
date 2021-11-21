@@ -155,3 +155,5 @@ Weekends: Web Devlopment
 ##### 74th - Linked List - Insert,delete and display operations
 
 ##### 75th - Double and circular Linked List - Insert and delete Operations
+
+##### 76th - NQueens1,NQueens2 - Traverse every row and add queen in 1 column and check. 
