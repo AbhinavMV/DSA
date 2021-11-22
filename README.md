@@ -157,3 +157,5 @@ Weekends: Web Devlopment
 ##### 75th - Double and circular Linked List - Insert and delete Operations
 
 ##### 76th - NQueens1,NQueens2 - Traverse every row and add queen in 1 column and check. 
+
+##### 77th - Word Break 1 and Word Break 2 - check each substring is present in dictionary or not
