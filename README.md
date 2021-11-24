@@ -159,3 +159,5 @@ Weekends: Web Devlopment
 ##### 76th - NQueens1,NQueens2 - Traverse every row and add queen in 1 column and check. 
 
 ##### 77th - Word Break 1 and Word Break 2 - check each substring is present in dictionary or not
+
+##### 78th - Linked List reverse, binary to decimal conversion - use left shift(multiply by 2) and add 1
