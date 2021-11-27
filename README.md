@@ -162,4 +162,6 @@ Weekends: Web Devlopment
 
 ##### 78th - Linked List reverse, binary to decimal conversion - use left shift(multiply by 2) and add 1
 
-##### 79th - Linked List Merge two sorted list
+##### 79th - Linked List Merge two sorted list, Delete a given node - Copy next node's value into it
+
+##### 80th - Linked list - fast and slow pointer method
