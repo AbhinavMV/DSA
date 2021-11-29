@@ -166,4 +166,6 @@ Weekends: Web Devlopment
 
 ##### 80th - Linked list - fast and slow pointer method
 
-##### 81st - Linked list - Palindrome
+##### 81st - Linked list - Palindrome , reversing after middle
+
+##### 82nd - Linked List - intersection, switching heads to counter length variation
