@@ -171,3 +171,5 @@ Weekends: Web Devlopment
 ##### 82nd - Linked List - intersection, switching heads to counter length variation
 
 ##### 83rd - Linked List - Remove duplicates
+
+##### 84th - Linked List - Reverse Linked List 2 - reverse a part of linked list, Reorder Linked List 
