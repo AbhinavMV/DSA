@@ -172,4 +172,6 @@ Weekends: Web Devlopment
 
 ##### 83rd - Linked List - Remove duplicates
 
-##### 84th - Linked List - Reverse Linked List 2 - reverse a part of linked list, Reorder Linked List 
+##### 84th - Linked List - Reverse Linked List 2 - reverse a part of linked list, Reorder Linked List
+
+##### 85th - Linked List - Remove nth node from end - move a pointer n times then start a prev pointer take care of edge cases
