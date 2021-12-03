@@ -175,3 +175,6 @@ Weekends: Web Devlopment
 ##### 84th - Linked List - Reverse Linked List 2 - reverse a part of linked list, Reorder Linked List
 
 ##### 85th - Linked List - Remove nth node from end - move a pointer n times then start a prev pointer take care of edge cases
+
+##### 86th - Linked List - Cycle 2 - floyd's algorithm - find relationship between distance moved by both slow and fast pointer
+
