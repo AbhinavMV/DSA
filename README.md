@@ -179,3 +179,5 @@ Weekends: Web Devlopment
 ##### 86th - Linked List - Cycle 2 - floyd's algorithm - find relationship between distance moved by both slow and fast pointer
 
 ##### 87th - Linked List - Flatten a Multilevel Doubly Linked List - take care of the case when last element has a child
+
+##### 88th - Linked List - Rotate a linked list
