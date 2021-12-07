@@ -183,3 +183,5 @@ Weekends: Web Devlopment
 ##### 88th - Linked List - Rotate a linked list
 
 ##### 89th - Linked List - Rotate k Groups - do 1st rotation outside while loop then do rest
+
+##### 90th - Stack - Concepts
