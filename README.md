@@ -185,3 +185,5 @@ Weekends: Web Devlopment
 ##### 89th - Linked List - Rotate k Groups - do 1st rotation outside while loop then do rest
 
 ##### 90th - Stack - Concepts
+
+##### 91st - Nearest greater to left, Online stock span - whenever nested loops are there and inner loop(j) depends on outer loop(i) a better solution can be implemented using stack
