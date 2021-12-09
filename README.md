@@ -187,3 +187,5 @@ Weekends: Web Devlopment
 ##### 90th - Stack - Concepts
 
 ##### 91st - Nearest greater to left, Online stock span - whenever nested loops are there and inner loop(j) depends on outer loop(i) a better solution can be implemented using stack
+
+##### 92nd - Maximum Area in Histogram - think of finding Nearest smallest from left then from right as well
