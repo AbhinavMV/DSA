@@ -189,3 +189,7 @@ Weekends: Web Devlopment
 ##### 91st - Nearest greater to left, Online stock span - whenever nested loops are there and inner loop(j) depends on outer loop(i) a better solution can be implemented using stack
 
 ##### 92nd - Maximum Area in Histogram - think of finding Nearest smallest from left then from right as well
+
+##### 93rd - Maximum Area In Binary Matrix - think of compressing the 2D matrix into 1D, do not buildings need a ground to stand on ;)
+
+##### 94th - Water Trapping Problem - For each building find its left and right max, then think how much water will be above this building , Min Stack - using supporting stack and 2x-ME method
