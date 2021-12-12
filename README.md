@@ -193,3 +193,7 @@ Weekends: Web Devlopment
 ##### 93rd - Maximum Area In Binary Matrix - think of compressing the 2D matrix into 1D, do not buildings need a ground to stand on ;)
 
 ##### 94th - Water Trapping Problem - For each building find its left and right max, then think how much water will be above this building , Min Stack - using supporting stack and 2x-ME method
+
+##### 95th - Heap - insertion and deletion and heapify method - use heap when sorting needed and K is given it reduces time complexity to nO(logk)
+ 
+##### 96th - Heapq package in python, Kth smallest and largest element, K elements close to x 
