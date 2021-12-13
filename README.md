@@ -196,4 +196,6 @@ Weekends: Web Devlopment
 
 ##### 95th - Heap - insertion and deletion and heapify method - use heap when sorting needed and K is given it reduces time complexity to nO(logk)
  
-##### 96th - Heapq package in python, Kth smallest and largest element, K elements close to x 
+##### 96th - Heapq package in python, Kth smallest and largest element, K elements close to x
+
+##### 97th - Heap - Frequency Sort, kClosest points to the origin
