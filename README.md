@@ -201,3 +201,5 @@ Weekends: Web Devlopment
 ##### 97th - Heap - Frequency Sort, kClosest points to the origin
 
 ##### 98th - Minimum Cost to Merge Stones - Greedy solution done but not optimized :/ ->Need to think differently now
+
+##### 99th - Failed attempt to understand above ques DP solution will look again after sometime with fresh outlook. Sliding window concepts
