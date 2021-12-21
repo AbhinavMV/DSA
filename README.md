@@ -203,3 +203,5 @@ Weekends: Web Devlopment
 ##### 98th - Minimum Cost to Merge Stones - Greedy solution done but not optimized :/ ->Need to think differently now
 
 ##### 99th - Failed attempt to understand above ques DP solution will look again after sometime with fresh outlook. Sliding window concepts
+
+##### 100th - Sliding Window Maximum - for current element, if this element is greater than back of queue then keep on popping elements. All elements after this should be added to queue
