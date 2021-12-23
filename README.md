@@ -205,3 +205,5 @@ Weekends: Web Devlopment
 ##### 99th - Failed attempt to understand above ques DP solution will look again after sometime with fresh outlook. Sliding window concepts
 
 ##### 100th - Sliding Window Maximum - for current element, if this element is greater than back of queue then keep on popping elements. All elements after this should be added to queue
+
+##### 101th - Count of occurence of anagrams - use sliding map, make second string as hashmap, then slide a window and if all characters in hashmap is zero then anangram found else not.
