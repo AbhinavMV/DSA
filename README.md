@@ -207,3 +207,8 @@ Weekends: Web Devlopment
 ##### 100th - Sliding Window Maximum - for current element, if this element is greater than back of queue then keep on popping elements. All elements after this should be added to queue
 
 ##### 101th - Count of occurence of anagrams - use sliding map, make second string as hashmap, then slide a window and if all characters in hashmap is zero then anangram found else not.
+
+# Challenge completed
+# Day counting stopped ,now this would be tracker for all ques i do 
+
+##### Longest substring without Repeating characters - instead of storing each character count better method would be to store index and to check that index lies between left and right pointers 
