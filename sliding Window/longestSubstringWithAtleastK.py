@@ -1,8 +1,43 @@
 class Solution:
+    #Sliding window
     def longestSubstring(self,s: str,k: int) -> int:
-        
-        
-    
+        hmap = {}
+        #calculate all unique characters
+        for i in s:
+            if i in hmap:
+                hmap[i]+=1
+            else:
+                hmap[i]=1
+        max_unique = len(hmap)
+        result = 0
+        #traverse over the whole and try to find the max length substring with current no. of unique characters
+        #Then find the max between all these
+        for curr_unique in range(1,max_unique+1):
+            countmap = {}
+            i,j,unique,countAtLeastK=0,0,0,0
+            #Use sliding window to find max substring with current number of unique characters.
+            while(j<len(s)):
+                if(unique<=curr_unique):
+                    if(s[j] not in countmap):
+                        unique+=1
+                        countmap[s[j]]=1
+                    else:
+                        countmap[s[j]]+=1
+                    if(countmap[s[j]]==k):
+                        countAtLeastK+=1
+                    j+=1
+                else:
+                    countmap[s[i]]-=1
+                    if(countmap[s[i]]==0):
+                        unique-=1
+                        del countmap[s[i]]
+                    elif(countmap[s[i]]==k-1):
+                        countAtLeastK-=1
+                    i+=1
+                if(unique==curr_unique and len(countmap)==countAtLeastK):
+                    result = max(j-i,result)
+        return result
+                    
     # Two pointer approach - Divide and conquer
     # def longestSubstring(self, s: str,k: int) -> int:
     #     hmap = {}

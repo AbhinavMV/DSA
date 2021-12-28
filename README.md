@@ -214,3 +214,7 @@ Weekends: Web Devlopment
 ##### Longest substring without Repeating characters - instead of storing each character count better method would be to store index and to check that index lies between left and right pointers 
 
 ##### Longest substring with at least k repeating characters - tried 2 methods now trying to understand the sliding window approach, for D&C - take char which are less than k and then partition string based on this. 
+- Used sliding window for this here it is - 
+first find the total number of unique characters
+then loop over the string and find the max substring with only the curr no. of unique characters
+and each time update the max variable
