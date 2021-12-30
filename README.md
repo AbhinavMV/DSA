@@ -218,3 +218,5 @@ Weekends: Web Devlopment
 first find the total number of unique characters
 then loop over the string and find the max substring with only the curr no. of unique characters
 and each time update the max variable
+
+##### Subarray with k different integers - find all subarrays with atmost k integers and k-1 integers then subtract them to find our ans
